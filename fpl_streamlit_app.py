@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # App title
-st.title("⚡ FPL Electric Bills Dashboard")
+st.title("⚡ Avalon Electric Bills Dashboard")
 st.markdown("Analysis of Florida Power & Light monthly bills")
 
 @st.cache_data
